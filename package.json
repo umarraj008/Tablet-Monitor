@@ -1,0 +1,23 @@
+{
+  "name": "tablet-monitor",
+  "version": "1.0.0",
+  "description": "A way to show PC statistics on ipad",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umarraj008/Tablet-Monitor.git"
+  },
+  "author": "Umar Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umarraj008/Tablet-Monitor/issues"
+  },
+  "homepage": "https://github.com/umarraj008/Tablet-Monitor#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
